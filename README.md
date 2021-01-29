@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello World!
 
-<!--
-**rodhent/rodhent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my github profile!**
 
-Here are some ideas to get you started:
+[Email](rodhentringer@gmail.com) | [Linkdin](https://www.linkedin.com/in/rod-hent/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+
+Architect/Interior Designer
+
+HTML | CSS | JavaScript | Python | Node.js | Java | React | Redux | 3D Modeling | VR | CAD  
+
+---
+
+Things I like to do:
+
+- 📱 Applications
+- 🏘 Architecture and Interior Design
+- 😎 VR Presentations
+- 📸 Photographic
+- 🪕 Music
+
+---
+
+**Personal projects**
+
+[Interior Design | 3D Modeling | VR Presentation](https://viewer.divein.studio/story/vuS-RZo)
