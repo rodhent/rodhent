@@ -24,4 +24,4 @@ Things I like to do:
 
 **Personal projects**
 
-[Interior Design | 3D Modeling | VR Presentation](https://viewer.divein.studio/story/vuS-RZo)
+Interior Design | 3D Modeling | VR Presentation - [Oakpark Apartments](https://viewer.divein.studio/story/vuS-RZo)
