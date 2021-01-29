@@ -6,7 +6,7 @@
 
 **Skills**
 
-Architect/Interior Designer
+Software Engineer | Architect | Interior Designer
 
 HTML | CSS | JavaScript | Python | Node.js | Java | React | Redux | 3D Modeling | VR | CAD  
 
