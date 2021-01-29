@@ -1,6 +1,6 @@
-# Hello World!
+# Welcome to my github profile!
 
-**Welcome to my github profile!**
+****
 
 [Email](rodhentringer@gmail.com) | [Linkdin](https://www.linkedin.com/in/rod-hent/)
 
