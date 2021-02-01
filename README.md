@@ -17,7 +17,7 @@ Things I like to do:
 - 🏘 Architecture and Interior Design.
 - 😎 VR Presentations.
 - 📸 Photography.
-- 🪕 Music
+- 🪕 Music.
 
 ---
 
