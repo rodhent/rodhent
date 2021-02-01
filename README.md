@@ -14,7 +14,7 @@ HTML | CSS | JavaScript | Python | Node.js | Java | React | Redux | 3D Modeling 
 Things I like to do:
 
 - 📱 Applications.
-- 🏘 Architecture and Interior Design
+- 🏘 Architecture and Interior Design.
 - 😎 VR Presentations
 - 📸 Photography
 - 🪕 Music
