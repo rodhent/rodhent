@@ -1,7 +1,7 @@
 # Welcome to my github profile!
 
 
-[Linkdin](https://www.linkedin.com/in/rod-hent/)
+[LinkdIn](https://www.linkedin.com/in/rod-hent/)
 
 **Skills**
 
